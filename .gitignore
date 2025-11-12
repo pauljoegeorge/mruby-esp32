@@ -1,0 +1,13 @@
+dependencies.lock
+build/
+sdkconfig.old
+
+main/main_mrb.h
+main/spiffs/*.pem
+main/spiffs/*.pem.key
+main/spiffs/*.pem.crt
+
+components/
+managed_components
+
+.vscode
